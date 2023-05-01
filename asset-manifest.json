@@ -1,7 +1,7 @@
 {
-  "main.css": "/gemolav/static/css/main.5d856951.chunk.css",
-  "main.js": "/gemolav/static/js/main.a70f62d8.chunk.js",
-  "main.js.map": "/gemolav/static/js/main.a70f62d8.chunk.js.map",
+  "main.css": "/gemolav/static/css/main.633af664.chunk.css",
+  "main.js": "/gemolav/static/js/main.bcea709a.chunk.js",
+  "main.js.map": "/gemolav/static/js/main.bcea709a.chunk.js.map",
   "static/js/1.57fb75a2.chunk.js": "/gemolav/static/js/1.57fb75a2.chunk.js",
   "static/js/1.57fb75a2.chunk.js.map": "/gemolav/static/js/1.57fb75a2.chunk.js.map",
   "static/css/2.12b02955.chunk.css": "/gemolav/static/css/2.12b02955.chunk.css",
@@ -10,9 +10,9 @@
   "runtime~main.js": "/gemolav/static/js/runtime~main.665be21f.js",
   "runtime~main.js.map": "/gemolav/static/js/runtime~main.665be21f.js.map",
   "static/media/bootstrap-icons.css": "/gemolav/static/media/bootstrap-icons.52196284.woff",
-  "static/css/main.5d856951.chunk.css.map": "/gemolav/static/css/main.5d856951.chunk.css.map",
+  "static/css/main.633af664.chunk.css.map": "/gemolav/static/css/main.633af664.chunk.css.map",
   "static/css/2.12b02955.chunk.css.map": "/gemolav/static/css/2.12b02955.chunk.css.map",
   "index.html": "/gemolav/index.html",
-  "precache-manifest.3f95ef24168b24a5b6b4a9253c82b2fc.js": "/gemolav/precache-manifest.3f95ef24168b24a5b6b4a9253c82b2fc.js",
+  "precache-manifest.66a102eaec88d3c0f7ece702f7455405.js": "/gemolav/precache-manifest.66a102eaec88d3c0f7ece702f7455405.js",
   "service-worker.js": "/gemolav/service-worker.js"
 }
